@@ -1,3 +1,13 @@
+# Simple C++ Machine Learning Example
+
+This repository contains a basic linear regression demo implemented in C++.  
+It calculates the best-fit line `y = mx + b` using hardcoded sample data and predicts new values.
+
+##  Technologies Used
+- C++  
+- Basic math (no external libraries)  
+
+
 #include <iostream>
 using namespace std;
 
